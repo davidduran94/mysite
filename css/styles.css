@@ -1,0 +1,34 @@
+
+.azul{
+	color: rgb(83,186, 209);
+}
+.gris{
+	color: rgb(25,25,24);
+}
+.gris_fondo{
+	background-color: rgb(25,25,24);
+}
+
+.lista{
+	display: block;
+	padding: 10px;
+}
+
+.blanco{
+	color: white;
+}
+
+.icono{
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+.contenedor{
+	background-color: rgb(83,186, 209);
+	
+}
+
+.fill{
+	height: 100%;
+}
